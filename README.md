@@ -1,2 +1,2 @@
 # ChartUsingReactJS
-Chart flow using ReactJS
+Chart flow using ReactJS.
